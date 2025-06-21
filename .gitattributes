@@ -1,0 +1,25 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly declare text files
+*.js   text
+*.ts   text
+*.json text
+*.md   text
+*.yml  text
+*.yaml text
+*.sh   text eol=lf
+*.env  text
+
+# Explicitly declare binary files
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.pdf  binary
+*.zip  binary
+*.gz   binary
+*.tar  binary
+*.mp4  binary
+*.mp3  binary

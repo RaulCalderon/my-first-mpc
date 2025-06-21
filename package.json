@@ -1,0 +1,17 @@
+{
+  "name": "mcp",
+  "version": "1.0.0",
+  "description": "this is my first mcp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Raul Calderon",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.13.0",
+    "playwright": "^1.53.1",
+    "zod": "^3.25.67"
+  }
+}
